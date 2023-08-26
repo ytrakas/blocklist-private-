@@ -35,4 +35,22 @@ metrics.data.hicloud.com
 metrics2.data.hicloud.com
 advertising.apple.com
 samsung-com.112.2o7.net
+mouseflow.com
+o2.mouseflow.com
+tools.mouseflow.com
+realtime.luckyorange.com
+browser.sentry-cdn.com
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+static.ads-twitter.com
+ads.pinterest.com
+log.pinterest.com
+analytics.pinterest.com
+widgets.pinterest.com
+events.reddit.com
+appmetrica.yandex.ru
+auction.unityads.unity3d.com
+adserver.unityads.unity3d.com
 
