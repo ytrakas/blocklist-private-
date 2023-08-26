@@ -1,4 +1,3 @@
-#
 afs.googlesyndication.com
 mediavisor.doubleclick.net
 advertising-api-eu.amazon.com
@@ -36,6 +35,4 @@ metrics.data.hicloud.com
 metrics2.data.hicloud.com
 advertising.apple.com
 samsung-com.112.2o7.net
-tools.mouseflow.com
-browser.sentry-cdn.com
-appmetrica.yandex.ru
+
