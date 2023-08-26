@@ -36,6 +36,6 @@ metrics.data.hicloud.com
 metrics2.data.hicloud.com
 advertising.apple.com
 samsung-com.112.2o7.net
-ads.js
-pagead.js
-partner.ads.js
+tools.mouseflow.com
+browser.sentry-cdn.com
+appmetrica.yandex.ru
