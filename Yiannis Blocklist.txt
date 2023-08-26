@@ -53,4 +53,3 @@ events.reddit.com
 appmetrica.yandex.ru
 auction.unityads.unity3d.com
 adserver.unityads.unity3d.com
-
